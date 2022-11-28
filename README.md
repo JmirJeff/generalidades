@@ -1,0 +1,2 @@
+# generalidades
+códigos simples generales
